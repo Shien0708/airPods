@@ -13,6 +13,7 @@
 		64F4DC9927D5F121006CAD6A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64F4DC9727D5F121006CAD6A /* Main.storyboard */; };
 		64F4DC9B27D5F122006CAD6A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 64F4DC9A27D5F122006CAD6A /* Assets.xcassets */; };
 		64F4DC9E27D5F122006CAD6A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 64F4DC9C27D5F122006CAD6A /* LaunchScreen.storyboard */; };
+		64F4DCA627D5F997006CAD6A /* CustomizeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64F4DCA527D5F997006CAD6A /* CustomizeViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		64F4DC9A27D5F122006CAD6A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		64F4DC9D27D5F122006CAD6A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		64F4DC9F27D5F122006CAD6A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		64F4DCA527D5F997006CAD6A /* CustomizeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomizeViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				64F4DC9327D5F121006CAD6A /* SceneDelegate.swift */,
 				64F4DC9527D5F121006CAD6A /* ViewController.swift */,
 				64F4DC9727D5F121006CAD6A /* Main.storyboard */,
+				64F4DCA527D5F997006CAD6A /* CustomizeViewController.swift */,
 				64F4DC9A27D5F122006CAD6A /* Assets.xcassets */,
 				64F4DC9C27D5F122006CAD6A /* LaunchScreen.storyboard */,
 				64F4DC9F27D5F122006CAD6A /* Info.plist */,
@@ -140,6 +143,7 @@
 			files = (
 				64F4DC9627D5F121006CAD6A /* ViewController.swift in Sources */,
 				64F4DC9227D5F121006CAD6A /* AppDelegate.swift in Sources */,
+				64F4DCA627D5F997006CAD6A /* CustomizeViewController.swift in Sources */,
 				64F4DC9427D5F121006CAD6A /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
